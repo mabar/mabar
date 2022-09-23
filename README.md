@@ -7,5 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/orisai/.github/main/images/repo_title.png" alt="Orisai logo">
+  <a href="https://orisai.dev">
+    <img src="https://raw.githubusercontent.com/orisai/.github/main/images/repo_title.png" alt="Orisai logo">
+  </a>
 </p>
