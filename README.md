@@ -1,3 +1,11 @@
-I like to engineer software to perfection and make the usage of it an enjoyment.
+<p align="center">
+  I like to engineer software to perfection and make the usage of it an enjoyment.
+</p>
 
-Developing PHP libraries and [Nette](https://nette.org)-based CMF at [@Orisai](https://github.com/orisai/)
+<p align="center">
+  Developing PHP libraries and <a href="https://nette.org">Nette</a>-based CMF at <a href="https://github.com/orisai/">Orisai</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/orisai/.github/main/images/repo_title.png" alt="Orisai logo">
+</p>
