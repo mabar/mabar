@@ -8,6 +8,6 @@
 
 <p align="center">
   <a href="https://orisai.dev">
-    <img src="https://raw.githubusercontent.com/orisai/.github/main/images/repo_title.png" alt="Orisai logo">
+    <img src="https://raw.githubusercontent.com/orisai/.github/main/images/org_title.png" alt="Orisai logo">
   </a>
 </p>
